@@ -1,2 +1,3 @@
 # Laravel-8-Socialite-Login-with-Facebook-Account
 we will learn about laravel 8 socialite login with facebook account, as you all know currently many websites provide different types of login authentication facilities to users like facebook login, login with google, login with GitHub, etc...
+## https://techsolutionstuff.com/post/laravel-8-socialite-login-with-facebook-account
